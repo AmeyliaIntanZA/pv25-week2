@@ -25,7 +25,7 @@ class RegistrationForm(QWidget):
         user_info_layout = QVBoxLayout()
         user_info_layout.addWidget(QLabel("Name: Ameylia Intan Zurtika Ayu"))
         user_info_layout.addWidget(QLabel("NIM: F1D022110"))
-        user_info_layout.addWidget(QLabel("Kelas: C"))
+        user_info_layout.addWidget(QLabel("Kelas: Pemvis C"))
         user_info_group.setLayout(user_info_layout)
         main_layout.addWidget(user_info_group)
         
