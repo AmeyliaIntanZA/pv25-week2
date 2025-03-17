@@ -9,7 +9,7 @@ class KoordinatMouse(QMainWindow):
         self.initUI()
         
     def initUI(self):
-        self.setWindowTitle('Task Week 3 - (F1D022110 - Ameylia Intan Zurtika Ayu)')
+        self.setWindowTitle('Task Week 3 - F1D022110 - Ameylia Intan Zurtika Ayu')
         self.setGeometry(100, 100, 800, 600)
         self.setStyleSheet("background-color: pink;")
         
