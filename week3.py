@@ -5,6 +5,7 @@ import random
 
 class KoordinatMouse(QMainWindow):
     def __init__(self):
+        
         super().__init__()
         self.initUI()
         
